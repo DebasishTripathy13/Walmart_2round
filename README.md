@@ -4,7 +4,7 @@ This project utilizes a Random Forest Classifier to predict hard disk failures b
 
 ## Data Source
 
-The data used in this project is sourced from Kaggle and contains SMART attributes for a large number of hard disks, along with their failure status.
+The data used in this project is sourced from Backblaze and has self uploaded by me and contains SMART attributes for a large number of hard disks, along with their failure status.
 
 ## Methodology
 
@@ -93,3 +93,6 @@ def predict_hard_disk_failure():
 # Call the function to make predictions based on user inputs  Implementation
 predict_hard_disk_failure()
 ```
+
+* follow the below link for accessing the my kaggle page to see the output and see results : https://www.kaggle.com/code/debasishtripathy13/harddisk
+* Selfmade Dataset using Backblaze : https://www.kaggle.com/datasets/debasishtripathy13/data-q4-2023
