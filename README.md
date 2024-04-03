@@ -57,7 +57,7 @@ This project is for educational purposes only and should not be used for critica
 
 
 # Code for running the above model for prediction
-```
+```python
 with open('random_forest_model_for_hard_disk.pkl', 'rb') as f:
     loaded_model = pickle.load(f)
 
